@@ -1,4 +1,4 @@
-Project Title: Nim game
+Project Title: Nim Game
 
 Purpose OF Project: This project is for 5th period AP CSA 2.5.11 assignment
 
